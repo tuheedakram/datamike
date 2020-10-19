@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Add Home Title Here</title>
+	<atom:link href="https://tuheedakram.github.io/datamike/feed" rel="self" type="application/rss+xml" />
+	<link>https://tuheedakram.github.io/datamike</link>
+	<description>Add Meta Description Here</description>
+	<lastBuildDate>Monday, 19 October 2020 20:33:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>	
+	
+	
+	
+
+<item>
+		<title>this is title </title>
+		<link>https://tuheedakram.github.io/datamike/SEO/this-is-title.html</link>
+		<pubDate>Monday, 19 October 2020 20:33:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[SEO]]></category>
+		<guid isPermaLink="false">https://tuheedakram.github.io/datamike/SEO/this-is-title.html</guid> 
+		<description><![CDATA[this is title
+by
+Posted on 19-10-2020 08:33 PM
+and this is how we can see the things
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+<!--feeditem-->	
+	
+</channel>
+</rss>
+
+		
